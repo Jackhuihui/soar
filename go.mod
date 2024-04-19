@@ -1,4 +1,4 @@
-module soar
+module github.com/Jackhuihui/soar
 
 go 1.22.2
 
